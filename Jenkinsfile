@@ -1,4 +1,3 @@
-
 pipeline {
 	agent {
 	       label 'tomcat-slave'
@@ -31,3 +30,4 @@ pipeline {
     }
 	
 }
+
